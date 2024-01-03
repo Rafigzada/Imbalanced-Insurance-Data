@@ -1,7 +1,8 @@
 # Imbalanced-Insurance-Data
 
 ## Overview
-This repository addresses the challenge of imbalanced datasets using a resampling symphony. The dataset initially displayed a significant imbalance between class 0 and class 1 instances, prompting the application of innovative solutions to ensure effective model training. This journey encompasses data preprocessing steps and the strategic use of resampling techniques to rectify the imbalance.
+This repository addresses the challenge of imbalanced datasets using a resampling symphony. The dataset initially displayed a significant imbalance between class 0 and class 1 instances, prompting the application of innovative solutions to ensure effective model training. This journey encompasses data preprocessing steps and the strategic use of resampling techniques to rectify the imbalance. You can read our blog :
+https://medium.com/@anarrafig_mutual_account/in-the-realm-of-machine-learning-imbalanced-datasets-pose-a-significant-challenge-a79878b3324c
 
 ## Data Preprocessing
 Outlier Removal in 'Annual_Premium':
